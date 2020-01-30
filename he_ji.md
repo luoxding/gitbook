@@ -1,2 +1,6 @@
-# 合集
+# 合集2
+
+```
+gitbook build ./ ./docs
+```
 
